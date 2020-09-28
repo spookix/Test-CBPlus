@@ -1,0 +1,8 @@
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\bin\Release\CBPlus.exe
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\bin\Release\CBPlus.pdb
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\ResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\CBPlus.ListProduit.resources
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\CBPlus.Properties.Resources.resources
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\CBPlus.csproj.GenerateResource.Cache
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\CBPlus.exe
+C:\Users\marti\Documents\Visual Studio 2008\Projects\CBPlus\CBPlus\obj\Release\CBPlus.pdb
