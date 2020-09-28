@@ -7,4 +7,4 @@ Cette application a pour but d'afficher une liste de produits alimentaires et de
 # Explications
 
 - Sources disponibles dans le répertoire src
-- Executables dans le release
+- Executables dans le bin/release
